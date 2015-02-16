@@ -1,3 +1,3 @@
 **How it is used:**
 
-This concept is modified numeral system and basis for work with strings.
+This concept uses a modified numeral system and provides you with a basis for working with strings.

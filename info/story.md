@@ -1,1 +1,1 @@
-For accurate accounting all incoming ingots in cargo are numbered.
+To create an accurate accounting of all the stock, incoming ingots in cargo shipments are numbered.
